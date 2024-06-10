@@ -3,10 +3,14 @@
 
 Soy Técnico Superior en DAI. 
 
-Actuamente me estoy formando en Python, puedes ver algunos de los proyectos que he hecho.
+Actuamente me estoy formando en Python, puedes algunos de los proyectos que he hecho.
 
 **¡Gracias por visitar mi repositorio!** :blush:
 
+## Contacto
+Linkedin: <a href="https://www.linkedin.com/in/arena-f/">arena-f</a>
+<br>
+Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 ## Mi repositorio
 
 ![banner_tictactoe](https://github.com/arenaf/arenaf/assets/169451601/be113e86-d2af-4ca6-9e31-4de0ea3caf18)
