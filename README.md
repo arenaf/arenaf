@@ -3,7 +3,7 @@
 
 Soy Técnico Superior en DAI. 
 
-Actuamente me estoy formando en Python, puedes algunos de los proyectos que he hecho.
+Actuamente me estoy formando en Python, puedes ver algunos de los proyectos que he hecho.
 
 **¡Gracias por visitar mi repositorio!** :blush:
 
