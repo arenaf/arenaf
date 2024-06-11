@@ -23,8 +23,9 @@ Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 :art: <a href="https://github.com/arenaf/image-watermarking-desktop-app">Image Watermarking Desktop App </a>
 
 
+![banner-typing](https://github.com/arenaf/arenaf/assets/169451601/2782abaf-d135-4934-97e9-3884a6746749)
 
-
+:keyboard: <a href="https://github.com/arenaf/test-typing-speed">Test Typing Speed </a>
 
 
 <!--
