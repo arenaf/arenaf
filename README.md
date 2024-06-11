@@ -11,11 +11,21 @@ Actuamente me estoy formando en Python, puedes ver algunos de los proyectos que 
 Linkedin: <a href="https://www.linkedin.com/in/arena-f/">arena-f</a>
 <br>
 Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
-## Mi repositorio
+## Mis proyectos
 
 ![banner_tictactoe](https://github.com/arenaf/arenaf/assets/169451601/be113e86-d2af-4ca6-9e31-4de0ea3caf18)
 
 :jigsaw: <a href="https://github.com/arenaf/tic-tac-toe"> Tic Tac Toe </a>
+
+
+![banner-watermark](https://github.com/arenaf/arenaf/assets/169451601/f7a4bfaa-c321-459f-acb8-5fa9e6466480)
+
+:art: <a href="https://github.com/arenaf/image-watermarking-desktop-app">Image Watermarking Desktop App </a>
+
+
+
+
+
 
 <!--
 **arenaf/arenaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
