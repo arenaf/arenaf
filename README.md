@@ -13,7 +13,9 @@ Linkedin: <a href="https://www.linkedin.com/in/arena-f/">arena-f</a>
 Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 ## Mis proyectos
 
+![banner_breakout - copia](https://github.com/arenaf/arenaf/assets/169451601/4854d9b7-38c0-4348-ba24-2102d7fb42c5)
 
+:space_invader: <a href="https://github.com/arenaf/breakout-game">Breakout Game </a>
 
 ![banner_tictactoe](https://github.com/arenaf/arenaf/assets/169451601/be113e86-d2af-4ca6-9e31-4de0ea3caf18)
 
@@ -29,9 +31,7 @@ Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 
 :keyboard: <a href="https://github.com/arenaf/test-typing-speed">Test Typing Speed </a>
 
-![banner_breakout - copia](https://github.com/arenaf/arenaf/assets/169451601/4854d9b7-38c0-4348-ba24-2102d7fb42c5)
 
-:space_invader: <a href="https://github.com/arenaf/breakout-game">Breakout Game </a>
 
 
 <!--
