@@ -13,6 +13,18 @@ Linkedin: <a href="https://www.linkedin.com/in/arena-f/">arena-f</a>
 Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 ## Mis proyectos
 
+<a href="https://github.com/arenaf/api-recipes">
+  <img src="https://github.com/user-attachments/assets/5816cc56-01c5-480d-af48-337e969ea5c8">
+</a>
+
+<a href="https://github.com/arenaf/api-recipes"> API Recipes </a>
+
+This project has been developed with ***Python*** and the following libraries and tools: ***Flask***, ***SQLAlchemy***, ***WTForm***, ***JWT-extended***, ***Postman***, ***Bootstrap*** and ***HTML***.
+
+Website that allows you to create, edit and delete recipes. Some actions can only be performed by logged in users, so it also allows new users to register.
+
+
+
 <a href="https://github.com/arenaf/space-invaders">
   <img src="https://github.com/user-attachments/assets/bb0501dd-59d3-4573-bf2f-1ea9bac765a4">
 </a>
