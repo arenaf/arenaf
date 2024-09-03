@@ -34,16 +34,6 @@ Website that allows you to create, edit and delete recipes. Some actions can onl
 Juego cuyo objetivo es eliminar todas las naves invasoras.
 Esta aplicación ha sido desarrollada como uno de los proyectos finales del **Bootcamp 100 Days of Code** en la cual he utilizado la librería ***Pygame***.
 
-<a href="https://github.com/arenaf/todo-list-website">
-  <img src="https://github.com/arenaf/arenaf/assets/169451601/abf47d7e-9a02-4f9e-afc9-22889a56baaf">
-</a>
-
-:computer: <a href="https://github.com/arenaf/todo-list-website">TODO List Website </a>
-
-Sitio web que permite planificar tareas que vamos a realizar y las lista según su estado (pendientes o completadas).
-La página ha sido desarrollada con ***Python***, ***Flask***, ***SQLAlchemy***, ***WTForms*** y ***Bootstrap***.
-
-
 <a href="https://github.com/arenaf/breakout-game">
   <img src="https://github.com/arenaf/arenaf/assets/169451601/4854d9b7-38c0-4348-ba24-2102d7fb42c5">
 </a>
