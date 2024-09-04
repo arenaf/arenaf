@@ -1,11 +1,11 @@
 
-# ¡Hola! Soy Arena👋
+# Hi! I'm Arena👋
 
-Soy Técnico Superior en DAI. 
+I'm a Computer Applications Development Technician.
 
-Actuamente me estoy formando en Python, puedes ver algunos de los proyectos que he hecho.
+I'm currently training in Python, you can see some of the projects I've done.
 
-**¡Gracias por visitar mi repositorio!** :blush:
+**Thanks for visiting my repository!** :blush:
 
 ## Contacto
 Linkedin: <a href="https://www.linkedin.com/in/arena-f/">arena-f</a>
