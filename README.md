@@ -21,7 +21,7 @@ Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 
 This project has been developed with ***Python*** and the following libraries and tools: ***Flask***, ***SQLAlchemy***, ***WTForm***, ***JWT-extended***, ***Postman***, ***Bootstrap*** and ***HTML***.
 
-Website that allows you to create, edit and delete recipes. Some actions can only be performed by logged in users, so it also allows new users to register.
+Website that allows you to create, edit and delete recipes, these actions can be carried out via the web or the API. Some actions can only be performed by logged in users, so it also allows new users to register.
 
 
 
