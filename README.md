@@ -3,7 +3,7 @@
 
 I'm a Computer Applications Development Technician.
 
-I'm currently training in Python, you can see some of the projects I've done.
+I have been trained in Python and I am currently training in JavaScript, you can see some of the projects I've done.
 
 **Thanks for visiting my repository!** :blush:
 
