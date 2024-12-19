@@ -3,7 +3,7 @@
 
 I'm a Computer Applications Development Technician.
 
-I have been trained in Python and I am currently training in JavaScript, you can see some of the projects I've done.
+I have been trained in Python you can see some of the projects I've done.
 
 **Thanks for visiting my repository!** :blush:
 
@@ -13,17 +13,27 @@ Linkedin: <a href="https://www.linkedin.com/in/arena-f/">arena-f</a>
 Email: <a href="arenaferreira@gmail.com">arenaferreira@gmail.com</a>
 ## Mis proyectos
 
+<a href="https://github.com/arenaf/django-e-learning-project">
+  <img src=https://github.com/user-attachments/assets/7771bba1-f628-4a0d-942e-68b463be8f0c>
+</a>
+
+:mortar_board: <a href="https://github.com/arenaf/django-e-learning-project"> Django e-learning project </a>
+
+App with two roles (teacher and student) created with ***Python***, ***Django***, ***HTML*** and ***CSS***.
+
+**********************
+
 <a href="https://github.com/arenaf/api-recipes">
   <img src="https://github.com/user-attachments/assets/5816cc56-01c5-480d-af48-337e969ea5c8">
 </a>
 
-<a href="https://github.com/arenaf/api-recipes"> API Recipes </a>
+:grapes: <a href="https://github.com/arenaf/api-recipes"> API Recipes </a>
 
 This project has been developed with ***Python*** and the following libraries and tools: ***Flask***, ***SQLAlchemy***, ***WTForm***, ***JWT-extended***, ***Postman***, ***Bootstrap*** and ***HTML***.
 
 Website that allows you to create, edit and delete recipes, these actions can be performed via the web or the API. Some options can only be performed by logged in users, so it also allows new users to register.
 
-
+**********************
 
 <a href="https://github.com/arenaf/space-invaders">
   <img src="https://github.com/user-attachments/assets/bb0501dd-59d3-4573-bf2f-1ea9bac765a4">
@@ -34,6 +44,8 @@ Website that allows you to create, edit and delete recipes, these actions can be
 Juego cuyo objetivo es eliminar todas las naves invasoras.
 Esta aplicación ha sido desarrollada como uno de los proyectos finales del **Bootcamp 100 Days of Code** en la cual he utilizado la librería ***Pygame***.
 
+**********************
+
 <a href="https://github.com/arenaf/breakout-game">
   <img src="https://github.com/arenaf/arenaf/assets/169451601/4854d9b7-38c0-4348-ba24-2102d7fb42c5">
 </a>
@@ -43,6 +55,7 @@ Esta aplicación ha sido desarrollada como uno de los proyectos finales del **Bo
 Juego famoso en los años 80 que consiste en eliminar todos los ladrillos de la pantalla.
 Para su desarrollo se ha utilizado ***Python*** y el módulo ***Turtle*** como interfaz gráfica
 
+**********************
 
 <a href="https://github.com/arenaf/image-watermarking-desktop-app">
   <img src="https://github.com/arenaf/arenaf/assets/169451601/f7a4bfaa-c321-459f-acb8-5fa9e6466480">
